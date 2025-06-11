@@ -238,7 +238,7 @@ const Portfolio = () => {
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <a
-              href="cybermk\MAHESH_KATARE.PDF"
+              href="mk\MAHESH_KATARE.pdf"
               download
               className="inline-flex items-center px-8 py-3 bg-purple-600 hover:bg-purple-700 rounded-lg font-semibold transition-colors duration-200"
             >
